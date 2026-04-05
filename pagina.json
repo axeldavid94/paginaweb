@@ -1,33 +1,34 @@
-{
-    "nombre": "Axel David Soto",
-    "edad": 31,
-    "carrera": "licenciatura en Informatica",
-    "listas de cursos": [
-        "Programacion I",
-        "Programacion II",
-        "Programacion III",
-        "Programacion IV",
-        "Programacion V"
-    ]
-}
-
-{
-    "receta": {
-        "nombre": "Tarta de Manzana",
-        "ingredientes": [
-            "2 tazas de harina",
-            "1 taza de azúcar",
-            "1/2 taza de mantequilla",
-            "4 manzanas",
-            "1 cucharadita de canela"
-        ],
-        "pasosDePreparacion": [
-            "Precalentar el horno a 180 grados Celsius.",
-            "Mezclar la harina, el azúcar y la mantequilla hasta obtener una masa homogénea.",
-            "Extender la masa en un molde para tarta y reservar.",
-            "Pelar y cortar las manzanas en rodajas finas.",
-            "Colocar las manzanas sobre la masa y espolvorear con canela.",
-            "Hornear durante 45 minutos o hasta que la tarta esté dorada."
+[
+    {
+        "nombre": "Axel David Soto",
+        "edad": 31,
+        "carrera": "licenciatura en Informatica",
+        "listasDeCursos": [
+            "Programacion I",
+            "Programacion II",
+            "Programacion III",
+            "Programacion IV",
+            "Programacion V"
         ]
+    },
+    {
+        "receta": {
+            "nombre": "Tarta de Manzana",
+            "ingredientes": [
+                "2 tazas de harina",
+                "1 taza de azúcar",
+                "1/2 taza de mantequilla",
+                "4 manzanas",
+                "1 cucharadita de canela"
+            ],
+            "instrucciones": [
+                "Precalentar el horno a 180 grados Celsius.",
+                "Mezclar la harina, el azúcar y la mantequilla hasta obtener una masa homogénea.",
+                "Extender la masa en un molde para tarta y reservar.",
+                "Pelar y cortar las manzanas en rodajas finas.",
+                "Colocar las manzanas sobre la masa y espolvorear con canela.",
+                "Hornear durante 45 minutos o hasta que la tarta esté dorada."
+            ]
+        }
     }
-}
+]
