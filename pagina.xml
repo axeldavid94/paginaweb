@@ -1,0 +1,25 @@
+<titulo> Harry Potter y la Piedra Filosofal </titulo>
+<autor> J.K. Rowling </autor>
+<año_de_publicacion> 1997 </año_de_publicacion>
+<genero> Fantasía </genero>
+
+<!--siguiente actividad-->
+<menu_de_un_restaurante>
+    <entrada>
+        <plato_principal>
+                <nombre> Pollo al Curry </nombre>
+                <precio> 10.99 </precio>
+                <descripcion> Pollo cocinado en una salsa de curry con arroz basmati. </descripcion>
+        </plato_principal>
+    </entrada>
+    <postre>
+        <nombre> Tarta de Queso </nombre>
+        <precio> 5.99 </precio>
+        <descripcion> Tarta de queso cremosa con base de galleta. </descripcion>
+    </postre>
+    <bebidas>
+        <nombre> Limonada </nombre>
+        <precio> 2.50 </precio>
+        <descripcion> Refrescante limonada casera. </descripcion>
+    </bebidas>
+</menu_de_un_restaurante>
