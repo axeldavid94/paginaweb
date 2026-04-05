@@ -1,0 +1,12 @@
+{
+    "nombre": "Axel David Soto",
+    "edad": 31,
+    "carrera": "licenciatura en Informatica",
+    "listas de cursos": [
+        "Programacion I",
+        "Programacion II",
+        "Programacion III",
+        "Programacion IV",
+        "Programacion V"
+    ]
+}

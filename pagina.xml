@@ -1,9 +1,10 @@
+<!--ejercicio 1-->
 <titulo> Harry Potter y la Piedra Filosofal </titulo>
 <autor> J.K. Rowling </autor>
 <año_de_publicacion> 1997 </año_de_publicacion>
 <genero> Fantasía </genero>
 
-<!--siguiente actividad-->
+<!--ejercicio 2-->
 <menu_de_un_restaurante>
     <entrada>
         <plato_principal>
@@ -23,3 +24,45 @@
         <descripcion> Refrescante limonada casera. </descripcion>
     </bebidas>
 </menu_de_un_restaurante>
+
+<!--ejercicio 3-->
+<estudiante>
+    <nombre>Pablo Rodriguez</nombre>
+    <edad> 21 </edad>
+    <carrera> Ingeniería Informática </carrera>
+    <cursos>
+            <curso> Matematicas</curso>
+            <curso> Fisica</curso>
+    </cursos>
+</estudiante>
+
+<!--ejercicio 4-->
+<nombre_de_tienda_online>
+    <nombre> TechStore </nombre>
+    <categoria> Electrónica </categoria>
+    <productos>
+        <producto>
+            <nombre> Smartphone XYZ </nombre>
+            <precio> 499.99 </precio>
+            <descripcion> Smartphone de última generación con pantalla AMOLED. </descripcion>
+        </producto>
+        <producto>
+            <nombre> Laptop ABC </nombre>
+            <precio> 899.99 </precio>
+            <descripcion> Laptop potente para trabajo y entretenimiento. </descripcion>
+        </producto>
+    </productos>
+        <categoria> Smartphones </categoria>
+        <prodcutos>
+            <producto>
+                <nombre> Smartphone XYZ </nombre>
+                <precio> 499.99 </precio>
+                <descripcion> Smartphone de última generación con pantalla AMOLED. </descripcion>
+            </producto>
+            <producto>
+                <nombre> Smartphone DEF </nombre>
+                <precio> 299.99 </precio>
+                <descripcion> Smartphone económico con buenas prestaciones. </descripcion>
+            </producto>
+        </prodcutos>
+    </nombre_de_tienda_online>
